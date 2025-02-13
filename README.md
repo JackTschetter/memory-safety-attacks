@@ -23,11 +23,7 @@
 
 ## About
 
-Lab developed for the purposes of teaching about topics related to memory safety vulnerabilities and understanding low level program behavior with a debugger.<br>
-
-As a TA I would recommend that my students work collaboratively on labs in groups of 2-3 students. This was not strictly required, and I encouraged my students to do whatever was most helpful for their learning.
-
-A useful tool for this lab, and a major focus of it is the GNU Debugger (GDB).
+Lab related to memory safety in C. The emphasis in this lab continued to be on understanding low level code. Unlike the previous two labs this lab moved on from identifying the vulnerabilities and was more concerned with the later stages of an attack.
 
 ---
 
