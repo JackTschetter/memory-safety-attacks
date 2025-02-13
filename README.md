@@ -23,7 +23,7 @@
 
 ## About
 
-Lab related to memory safety in C. The emphasis in this lab continued to be on understanding low level code. Unlike the previous two labs this lab moved on from identifying the vulnerabilities and was more concerned with the later stages of an attack.<br><br>
+Lab related to memory safety in C. The emphasis in this lab continued to be on understanding low level code. Unlike the previous two labs this lab moved on from identifying the vulnerabilities and was more concerned with the later stages of an attack.<br>
 
 The GNU project debugger (GDB) continues to be useful for this lab. If you are reading this and are in need of a refresher check out this [GDB manual](https://sourceware.org/gdb/current/onlinedocs/gdb.html/index.html). You can also use the help command while GDB is running.
 
@@ -66,7 +66,7 @@ For anyone interested the command used to compile the victim binary on Ubuntu Li
     bcimgview.c -o bcimgview \
     -lgtk-3 -lgobject-2.0 -lglib-2.0 -lgdk_pixbuf-2.0 -lm**
 
-${\color{red}WARNING}$ This is intentionally buggy/vulnerable code created for the purpose of teaching a class on software security. This command compiles the binary in a way that intentionally disables various defense mechanisms against certain kinds of attacks.
+${\color{red}WARNING}$ This is intentionally vulnerable low level code and source code that deliberately ignores software engineering best practices. These files were created for the sole purpose of teaching a class on Designing and Developing Secure Software. The command used to compile the binaries does so in a way that intentionally disables various defense mechanisms against certain kinds of attacks. Exercise enhanced caution when downloading and using the provided code.
 
 ---
 
