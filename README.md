@@ -43,14 +43,21 @@ The GNU project debugger (GDB) continues to be useful for this lab. If you are r
 
 - A machine running Ubuntu 22.04. The program should on most recent Linux systems, although the supported configuration is Ubuntu 22.04.
 - C. The entire project was written using C programming language.
-
+- (Optional) Perl. Optional but useful for scripting.
+- (Optional) Python. Optional but useful for scripting.
+- The file overflow-from-file.c. Available under src.
+- The file overflow-from-file-2.c. Available under src.
+- (Optional) The precompiled binary overflow-from-file. Available under src.
+- (Optional) The precompiled binary overflow-from-file-2. Available under src.
+- The GNU Project Debugger (GDB).
+  
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/JackTschetter/ImageViewer
-   cd ImageViewer
+   git clone https://github.com/JackTschetter/memory-safety-attacks
+   cd memory-safety-attacks
 
 This repo provides a precompiled victim binary. This victim binary was compiled from the bcimgview.c source on a Linux x86-64 machine, so it should work on most recent Linux systems. I just recently was able to get the program to work, with slight modifications, on my brand new MacBook air which has an ARM based M3/Apple Silicon chip. This was A LOT of extra work, so please stick with the provided binary on Ubuntu Linux 22.04 for best results.
 
