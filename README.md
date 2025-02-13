@@ -23,7 +23,9 @@
 
 ## About
 
-Lab related to memory safety in C. The emphasis in this lab continued to be on understanding low level code. Unlike the previous two labs this lab moved on from identifying the vulnerabilities and was more concerned with the later stages of an attack.
+Lab related to memory safety in C. The emphasis in this lab continued to be on understanding low level code. Unlike the previous two labs this lab moved on from identifying the vulnerabilities and was more concerned with the later stages of an attack.<br><br>
+
+The GNU project debugger (GDB) continues to be useful for this lab. If you are reading this and are in need of a refresher check out this [GDB manual](https://sourceware.org/gdb/current/onlinedocs/gdb.html/index.html). You can also use the help command while GDB is running.
 
 ---
 
