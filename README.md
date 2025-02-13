@@ -31,9 +31,9 @@ The GNU project debugger (GDB) continues to be useful for this lab. If you are r
 
 ## Tools Used
 
-- **Operating System**: Linux. Perhaps in the future other compatible Unix variants.
-- **Programming Language(s)**: C
-- **Libraries**: The GUI portion uses the GTK 3 family of GUI libraries.
+- **Operating System**: Linux x86-64. Recommended to use a machine running Ubuntu 22.04.
+- **Programming Language(s)**: C, Perl, Python, Shell
+- **Tools**: The GNU Project Debugger (GDB), objdump
 
 ---
 
