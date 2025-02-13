@@ -43,9 +43,6 @@ The GNU project debugger (GDB) continues to be useful for this lab. If you are r
 
 - A machine running Ubuntu 22.04. The program should on most recent Linux systems, although the supported configuration is Ubuntu 22.04.
 - C. The entire project was written using C programming language.
-- GTK 3 family of GUI libraries. This assumes you want a GUI version.
-- (Optional) The precompiled binary from this repository.
-- (Optional) A hexadecimal editor. 
 
 ### Installation
 
