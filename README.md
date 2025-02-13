@@ -10,14 +10,14 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-    - [Disclaimer](#disclaimer)
 - [Lab](#lab)
     - [Buffer Overflow to Shellcode](#buffer-overflow-to-shellcode)
     - [Side Effects of a Buffer Overflow](#side-effects-of-a-buffer-overflow)
-- [License](#license)
+- [Usage](#usage)
+    - [Disclaimer](#disclaimer)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
+- [License](#license)
 
 ---
 
