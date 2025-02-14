@@ -75,6 +75,10 @@ ${\color{red}WARNING}$ This is intentionally vulnerable low level code and sourc
 
 ## Lab
 
+### Buffer Overflow to Shellcode
+
+### Side Effects of a Buffer Overflow
+
 ---
 
 ## Usage
